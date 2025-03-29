@@ -1,0 +1,21 @@
+﻿Name,Age,Profession,Salary,Company Name,City,Province,Marital Status,Years of Experience,Education,Department,Phone Number,Email,Gender
+Joshua,30.0,Junior Data Scientist,30000.0,TechCorp,Kimberley,NC,Yes,5,BSc Computer Science,Data Science,0721234567,joshua@example.com,Male
+Jane,34.0,IT Technician,27000.0,IT Solutions,Cape Town,WC,Yes,10,BCom IT,IT,0832345678,jane@example.com,Female
+Lucky,32.588235294117645,Cyber Technician,34000.0,Health Services,Johannesburg,GP,No,3,Diploma in IT,Cybersecurity,0723456789,lucky@example.com,Male
+Oliver,26.0,DevOp,34000.0,CyberSecure,Durban,KZN,No,8,BSc Data Science,DevOps,0821234567,oliver@example.com,Male
+Andile,23.0,Software Developer,39000.0,AI Innovations,Pretoria,GP,No,6,BSc Software Engineering,Software Development,0712345678,andile@example.com,Male
+Pearl,35.0,Frontend Developer,28000.0,DataXperts,Port Elizabeth,EC,Yes,9,BSc Frontend Development,Frontend,0782345678,pearl@example.com,Female
+Samantha,33.0,Data Analyst,26000.0,BigData Inc.,Bloemfontein,FS,Yes,7,BCom Data Analysis,Data Analytics,0723456789,samantha@example.com,Female
+Xoli,28.0,Admin Clerk,16000.0,SoftWorks,East London,EC,No,4,High School,Administration,0712345678,xoli@example.com,Female
+Oneil,34.0,Accountant,24000.0,CloudTech,Polokwane,LP,Yes,5,BCom Accounting,Finance,0732345678,oneil@example.com,Male
+Owen,25.0,Sales Manager,34000.0,DevOps Hub,Nelspruit,MP,No,10,MBA,Sales,0823456789,owen@example.com,Male
+Cyntia,28.0,Marketing Director,40000.0,TechCorp,Kimberley,NC,No,8,MBA,Marketing,0732345678,cyntia@example.com,Female
+Michael,32.588235294117645,AI Technician,43000.0,IT Solutions,Mbombela,MP,No,7,BSc AI,AI,0733456789,michael@example.com,Male
+Bruce,36.0,ML Engineer,45000.0,Health Services,George,WC,Yes,12,PhD Machine Learning,Machine Learning,0824567890,bruce@example.com,Male
+Clive,40.0,CEO,120000.0,CyberSecure,East London,EC,Yes,15,BSc Computer Science,Management,0712345678,clive@example.com,Male
+Zinhle,28.0,Supervisor,70000.0,AI Innovations,Cape Town,WC,No,6,Diploma in Management,Supervision,0712345678,zinhle@example.com,Female
+Nancy,34.0,Senior Data Scientist,59000.0,DataXperts,Johannesburg,GP,Yes,9,MSc Data Science,Data Science,0783456789,nancy@example.com,Female
+Octavia,38.0,Data Architect,56000.0,BigData Inc.,Pretoria,LP,Yes,10,BCom IT,Architecture,0724567890,octavia@example.com,Male
+Fred,43.0,Data Analyst,24000.0,SoftWorks,Polokwane,MP,Yes,18,BSc Statistics,Data Analysis,0712345678,fred@example.com,Male
+Hendry,32.588235294117645,General Worker,9500.0,CloudTech,Nelspruit,EC,Yes,2,Diploma in HR,General,0723456789,hendry@example.com,Male
+Muhammed,39.0,HR Manager,9950.0,DevOps Hub,Mbombela,Unknown,No,5,BCom HR,HR,0724567890,muhammed@example.com,Male
